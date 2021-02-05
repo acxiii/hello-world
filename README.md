@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hello world!
+
+Angie here, currently taken a new interest in coding.  
+I'm determined to learn full-stack JavaScript.
+Watch out coding world, here I come. 
